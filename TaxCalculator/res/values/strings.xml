@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaxCalculator</string>
+    <string name="tax">Know Your Tax Exemptions</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="basic_pay">Basic Pay</string>
+    <string name="hra">HRA</string>
+    <string name="rent_paid">Rent Paid</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="tax_calc">Tax Calculated</string>
+    <string name="exemption">Tax Exemption : </string>
+
+</resources>
